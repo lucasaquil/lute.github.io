@@ -124,7 +124,7 @@ section{
 }
 .carousel-control {
   position: absolute;
-  top: 60%;
+  top: 50%;
   transform: translateY(-50%);
   background-color: rgba(0, 0, 0, 0.5);
   border: none;
